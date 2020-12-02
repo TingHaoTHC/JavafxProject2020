@@ -1,0 +1,4 @@
+final private static String user = "root";
+final private static String pwd = "password3691!";
+final private String db_name = "project";
+final private String connection = "jdbc:mysql://localhost:3306/"+db_name;
